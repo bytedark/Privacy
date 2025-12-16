@@ -13,9 +13,9 @@ export default function Home() {
 
   // Configuration for links - User can edit these easily
   const LINKS = {
-    month1: "https://privacy.com.br/checkout/amiichann", // Link para o plano de 1 mês
-    month3: "https://privacy.com.br/checkout/amiichann", // Link para o plano de 3 meses
-    month12: "https://privacy.com.br/checkout/amiichann" // Link para o plano de 12 meses
+    month1: "https://app.pushinpay.com.br/service/pay/A09BEBEF-C70F-4E68-81F5-E5CEF5605E29", // Link para o plano de 1 mês
+    month3: "https://app.pushinpay.com.br/service/pay/a09bed1a-40f9-4673-91f2-7a92a1509cc6", // Link para o plano de 3 meses
+    month12: "https://app.pushinpay.com.br/service/pay/A09BED91-63CF-4D6A-9CFC-877456478FF3" // Link para o plano de 12 meses
   };
 
   return (
